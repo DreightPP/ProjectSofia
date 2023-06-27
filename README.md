@@ -1,6 +1,6 @@
 # Project Sofia - Open Source TKL Keyboard.
 
- ## Work in progress
+ ## --Work in progress--
  
  Project Sofia is a fully open souce TKL keyboard project based on [ojthetiny/OpenTKL](https://github.com/ojthetiny/OpenTKL)
  
