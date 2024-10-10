@@ -16,7 +16,7 @@
 - Flush USB-C connector built into the PCB
 
 Main difference from the original project:
-- Unified bottom weight 
+- Single-Pass through bottom weight 
 - Front badge system
 - WKL version
 - Classic round rubber feet
